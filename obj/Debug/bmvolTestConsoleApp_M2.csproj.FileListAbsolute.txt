@@ -1,0 +1,8 @@
+D:\BORIS\занятие прогтайм\bmvolTestConsoleApp_M2\bin\Debug\bmvolTestConsoleApp_M2.exe.config
+D:\BORIS\занятие прогтайм\bmvolTestConsoleApp_M2\bin\Debug\bmvolTestConsoleApp_M2.exe
+D:\BORIS\занятие прогтайм\bmvolTestConsoleApp_M2\bin\Debug\bmvolTestConsoleApp_M2.pdb
+D:\BORIS\занятие прогтайм\bmvolTestConsoleApp_M2\obj\Debug\bmvolTestConsoleApp_M2.csproj.AssemblyReference.cache
+D:\BORIS\занятие прогтайм\bmvolTestConsoleApp_M2\obj\Debug\bmvolTestConsoleApp_M2.csproj.SuggestedBindingRedirects.cache
+D:\BORIS\занятие прогтайм\bmvolTestConsoleApp_M2\obj\Debug\bmvolTestConsoleApp_M2.csproj.CoreCompileInputs.cache
+D:\BORIS\занятие прогтайм\bmvolTestConsoleApp_M2\obj\Debug\bmvolTestConsoleApp_M2.exe
+D:\BORIS\занятие прогтайм\bmvolTestConsoleApp_M2\obj\Debug\bmvolTestConsoleApp_M2.pdb

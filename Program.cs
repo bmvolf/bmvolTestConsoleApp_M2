@@ -10,6 +10,8 @@ namespace bmvolTestConsoleApp_M2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Ilya!!!");
+            Console.ReadLine();
         }
     }
 }
